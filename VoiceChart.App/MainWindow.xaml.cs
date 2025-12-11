@@ -1,3 +1,4 @@
+using System.IO;
 using System.Windows;
 using VoiceChart.App.ViewModels;
 using VoiceChart.App.Services;
@@ -7,7 +8,7 @@ using VoiceChart.Core.STT;
 using VoiceChart.Core.Storage;
 using VoiceChart.Core.Workflow;
 
-namespace VoiceChart;
+namespace VoiceChart.App;
 
 public partial class MainWindow : Window
 {

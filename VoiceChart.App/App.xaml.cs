@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace VoiceChart;
+namespace VoiceChart.App;
 
 public partial class App : Application
 {
